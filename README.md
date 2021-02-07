@@ -35,12 +35,12 @@
 11. **TA-DA!!** Your blockchain is up and running!!
 12. Time to head on over to your MyCrypto App. 
 13. After opening the app, sign into one of your node wallets via the keystore file. Enter your password and enter the app. 
-![](/Resources/MyCrypto1.png)
-![](/Resources/MyCrypto2.png)
-![](/Resources/MyCrypto3.png)
-![](/Resources/MyCrypto4.png)
+![](/POA_Development_Chain/Resources/MyCrypto1.png)
+![](/POA_Development_Chain/Resources/MyCrypto2.png)
+![](/POA_Development_Chain/Resources/MyCrypto3.png)
+![](/POA_Development_Chain/Resources/MyCrypto4.png)
 
 14. From there, you will need to access your custom blockchain by creating a custom network.  
-![](/Resources/MyCrypto5.png)
+![](/POA_Development_Chain/Resources/MyCrypto5.png)
 
 15. Well done! You are all ready to send transactions to the other node in the network! You can check your transactions in the TX history folder!
