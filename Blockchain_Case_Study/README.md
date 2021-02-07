@@ -1,6 +1,6 @@
 # Dapper Labs: A Case Study
 
-![](/Resources/DapperLabs.png)
+![](./Resources/DapperLabs.png)
 
 # What is it?
 
