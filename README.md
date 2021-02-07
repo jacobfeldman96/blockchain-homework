@@ -44,3 +44,5 @@
 ![](/POA_Development_Chain/Resources/MyCrypto5.png)
 
 15. Well done! You are all ready to send transactions to the other node in the network! You can check your transactions in the TX history folder!
+    - The transaction might take a while for it to go through but the page will look like this! 
+    ![](/POA_Development_Chain/Resources/MyCrypto6.png)
