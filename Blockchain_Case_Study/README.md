@@ -15,11 +15,11 @@ Blockchain technology was invented as a financial solution for double spend. How
 
 There are currently 103 gaming cryptocurrencies listed on cryptoslate. Considering video games already use virtual currency within the games, it is more than possible for blockchain to become the technological platform for this currency to be traded and have value ascribed to it outside of the game. With CryptoKitties, it was more than proven that people are willing to pay for and trade NFT's in a completely digital environment. Thus, it is not unreasonable to deduce that the same fate awaits game currencies.
 
-Additionally, the video game industry has been and continues to be a force for further development in computational hardware and software as consumers are consistently willing to buy higher definition and more realistic experiences in a virtual setting. Dapper Labs' contribution to the technological evolution is their development of the flow blockchain. Unlike traditional blockchain, flow "applies pipelining to blockchains by separating the jobs of a validator node into four different roles: Collection, Consensus, Execution, and Verification." This prevents sharding, like in Ethereum 2.0, and allows for scalability without compromise on speed. 
+Additionally, the video game industry has been, and continues to be, a force for further development in computational hardware and software as consumers are consistently willing to buy higher definition and more realistic experiences in a virtual setting. Dapper Labs' contribution to the technological evolution is their development of the flow blockchain. Unlike traditional blockchain, flow "applies pipelining to blockchains by separating the jobs of a validator node into four different roles: Collection, Consensus, Execution, and Verification." This prevents sharding, like in Ethereum 2.0, and allows for scalability without compromise on speed. 
 
 # Why this may be interesting?
 
-Video games aren't going anywhere any time soon, in fact, the industry is growing. If Dapper Labs can be at the forefront of marrying blockchain with gaming, they will likely have a bright future ahead of themselves. 
+Video games are far from becoming obsolete, in fact, the industry is growing. If Dapper Labs can be at the forefront of marrying blockchain with gaming, they will likely have a bright future ahead of themselves. 
 
 # Resources
 
