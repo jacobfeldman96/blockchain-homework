@@ -11,7 +11,7 @@ Their webapps, CryptoKitties, NBA Top Shot and Cheeze Wizards are hosted both on
 
 # Why this matters?
 
-Blockchain technology was invented as a financial solution for double spend. However, from it's conception, believers in Distributed Ledger Technology have been trying to apply it to as many different industries as possible. According to statista, the video game industry's market cap is projected to increase to $200 billion US by 2023 and Dapper Labs is pioneering the marriage of the two technological industries. 
+Blockchain technology was invented as a financial solution for double spend. However, from it's conception, believers in Distributed Ledger Technology have been trying to apply it to as many different industries as possible. According to statista, the video game industry's market cap is projected to increase to $200 billion US by 2023 and Dapper Labs is pioneering the marriage between the two technological industries. 
 
 There are currently 103 gaming cryptocurrencies listed on cryptoslate. Considering video games already use virtual currency within the games, it is more than possible for blockchain to become the technological platform for this currency to be traded and have value ascribed to it outside of the game. With CryptoKitties, it was more than proven that people are willing to pay for and trade NFT's in a completely digital environment. Thus, it is not unreasonable to deduce that the same fate awaits game currencies.
 
